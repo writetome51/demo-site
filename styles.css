@@ -2,10 +2,23 @@ h1 {
     margin-bottom: 20px;
 }
 
+
+li {
+    margin-bottom: 12px;
+}
+
+
 p {
     margin: 0;
 }
 
-li {
-    margin-bottom: 10px;
+
+ul {
+    list-style: none;
+}
+
+
+.app-name {
+    font-size: 18px;
+    font-weight: bold;
 }
